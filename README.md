@@ -10,6 +10,7 @@ Thanks for your interest! :D
 [Poster rendered on GitHub](https://github.com/raj-magesh/vss-2023/blob/main/poster.pdf)
 
 ## Authors
-Raj Magesh Gauthaman (that's me!)
-Brice Ménard (that's our collaborator!)
-Michael F Bonner (that's my advisor!)
+
+- Raj Magesh Gauthaman (that's me!)
+- Brice Ménard (that's our collaborator!)
+- Michael F Bonner (that's my advisor!)
